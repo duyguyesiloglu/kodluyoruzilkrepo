@@ -2,7 +2,8 @@
 
 Bu repo Patika.dev - Getir IOS Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![github](https://github.com/duyguyesiloglu/kodluyoruzilkrepo/assets/110973866/565f95b7-5f34-4ef4-8589-02ddcbf2680f)
+![github](https://github.com/duyguyesiloglu/kodluyoruzilkrepo/assets/110973866/8e88d40b-79ae-4a4a-9b40-8f91440744a0)
+
 
 
 ## Installation
