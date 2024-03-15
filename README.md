@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Getir-IOS Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo Patika.dev - Getir IOS Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![github](figures/github.png)
 
